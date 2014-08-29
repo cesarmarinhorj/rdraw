@@ -1,0 +1,1803 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="icones-no-index.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="SVGID_1_-8"
+       x1="242"
+       x2="271"
+       y1="251.0303"
+       y2="251.0303">
+      <stop
+         offset="0"
+         style="stop-color:#EFEFEF"
+         id="stop5095" />
+      <stop
+         offset="1"
+         style="stop-color:#E6E6E6"
+         id="stop5097" />
+    </linearGradient>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4528">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4530"
+         d="m -210.33333,824.42457 26.11564,-28.40249 32.64454,21.21199 55.26611,-63.85493 54.5732,35.09292"
+         style="fill:none;stroke:#ffffff;stroke-width:4.30912638;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4562">
+      <path
+         style="fill:#72b1d9;fill-opacity:1;stroke:none"
+         d="m -57.31645,887.08022 17.25,-97.5 -56.25,-35.5 -54.5,61.5 -32.75,-19 -20.5,19.5 19,100 z"
+         id="path4564"
+         inkscape:connector-curvature="0" />
+    </mask>
+    <path
+       id="a"
+       d="M64 0c35.346 0 64 28.654 64 64 0 35.347-28.654 64-64 64-35.346 0-64-28.653-64-64 0-35.346 28.654-64 64-64z" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4769">
+      <path
+         sodipodi:nodetypes="cscccccccscssccccccccccccccccccsccccccccccccccccccssc"
+         style="fill:#72b1d9;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         d="M 8.129,100.789 C 8.043,101.532 8,102.271 8,103 c 0,6.976 3.633,13.42 9.544,17.049 0.497,2.667 1.322,5.356 2.416,7.951 32.050835,19.5388 13.321503,10.27005 78.322136,23.91585 C 107.65614,151.91585 97,120.607 97,127.5 l -0.035,0.5 11.191,0 c 1.039,-2.603 1.827,-5.291 2.31,-7.958 C 116.371,116.411 120,109.97 120,103 c 0,-0.729 -0.043,-1.468 -0.129,-2.211 C 126.186,99.663 131,94.126 131,87.5 131,80.056 124.943,74 117.5,74 c -6.008,0 -11.199,3.971 -12.902,9.548 -3.277,-0.787 -6.649,-0.731 -10.044,0.233 l -2.02,0.574 0.671,1.989 c 1.666,4.936 1.611,8.314 0.857,9.365 -0.121,0.169 -0.281,0.333 -0.777,0.334 l -0.311,-0.021 c -1.102,-0.131 -2.244,-0.616 -3.69,-1.229 -2.728,-1.157 -6.12,-2.598 -11.63,-2.758 l -1.045,-0.03 -0.621,0.84 c -0.816,1.104 -2.259,2.308 -6.764,2.855 l -3.554,0.433 2.231,2.799 c 0.326,0.41 0.548,0.858 0.658,1.331 l 0.08,0.224 -0.018,0.16 0.026,0.36 c 0,3.277 -3.196,8.992 -5.028,8.992 -1.833,0 -5.028,-5.715 -5.024,-9.042 l 0.02,-0.317 -0.012,-0.116 0.07,-0.25 c 0.1,-0.469 0.302,-0.911 0.6,-1.316 l 2.079,-2.821 -3.486,-0.354 C 53.12,95.3 51.774,94.136 51.026,92.95 l -0.616,-0.977 -1.152,0.044 c -5.371,0.205 -8.718,1.613 -11.408,2.744 -1.462,0.614 -2.617,1.1 -3.735,1.231 l -0.319,0.021 c -0.521,0 -0.687,-0.173 -0.812,-0.35 -0.768,-1.08 -0.799,-4.525 0.945,-9.539 L 34.66,84.02 32.491,83.518 C 29.473,82.82 26.387,82.83 23.4,83.547 21.699,77.971 16.507,74 10.5,74 3.056,74 -3,80.056 -3,87.5 c 0,6.626 4.814,12.163 11.129,13.289 z"
+         id="path4771" />
+    </mask>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="369.39589"
+     inkscape:cy="451.207"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4936"
+       transform="translate(322.1161,-167.92159)">
+      <path
+         inkscape:export-ydpi="94.269997"
+         inkscape:export-xdpi="94.269997"
+         inkscape:export-filename="/home/livia/Documentos/email_marketing.png"
+         sodipodi:type="arc"
+         style="fill:#a6d1ed;fill-opacity:1;stroke:none"
+         id="path3972"
+         sodipodi:cx="220.21326"
+         sodipodi:cy="744.26569"
+         sodipodi:rx="68.690376"
+         sodipodi:ry="68.690376"
+         d="m 288.90363,744.26569 c 0,37.93664 -30.75373,68.69037 -68.69037,68.69037 -37.93665,0 -68.69038,-30.75373 -68.69038,-68.69037 0,-37.93665 30.75373,-68.69038 68.69038,-68.69038 37.93664,0 68.69037,30.75373 68.69037,68.69038 z"
+         transform="matrix(-1.1814028,0,0,1.1814028,401.18134,-578.86354)" />
+      <path
+         inkscape:export-ydpi="94.269997"
+         inkscape:export-xdpi="94.269997"
+         inkscape:export-filename="/home/livia/Documentos/email_marketing.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3000"
+         d="M 116.72227,336.62384 90.646946,349.27219 102.29952,322.70716 z"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="94.269997"
+         inkscape:export-xdpi="94.269997"
+         inkscape:export-filename="/home/livia/Documentos/email_marketing.png"
+         inkscape:connector-curvature="0"
+         id="path2996"
+         d="M 199.21016,259.44956 69.152546,292.09049 134.68741,359.39657 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="94.269997"
+         inkscape:export-xdpi="94.269997"
+         inkscape:export-filename="/home/livia/Documentos/email_marketing.png"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path2998"
+         d="M 90.660126,349.27535 102.80559,324.98444 199.04568,259.56288 90.407096,314.10414 z"
+         style="fill:#e6e6e6;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g4942"
+       transform="translate(322.11612,-231.68058)">
+      <path
+         inkscape:export-ydpi="94.268707"
+         inkscape:export-xdpi="94.268707"
+         inkscape:export-filename="/home/livia/Documentos/leads.png"
+         transform="matrix(1.1814028,0,0,1.1814028,-119.1398,-337.29253)"
+         d="m 288.90363,744.26569 c 0,37.93664 -30.75373,68.69037 -68.69037,68.69037 -37.93665,0 -68.69038,-30.75373 -68.69038,-68.69037 0,-37.93665 30.75373,-68.69038 68.69038,-68.69038 37.93664,0 68.69037,30.75373 68.69037,68.69038 z"
+         sodipodi:ry="68.690376"
+         sodipodi:rx="68.690376"
+         sodipodi:cy="744.26569"
+         sodipodi:cx="220.21326"
+         id="path3974"
+         style="fill:#a6d1ed;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <rect
+         inkscape:export-ydpi="94.268707"
+         inkscape:export-xdpi="94.268707"
+         inkscape:export-filename="/home/livia/Documentos/leads.png"
+         y="511.69479"
+         x="95.235153"
+         height="82.914322"
+         width="91.571205"
+         id="rect3982"
+         style="fill:#82c4b6;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="94.268707"
+         inkscape:export-xdpi="94.268707"
+         inkscape:export-filename="/home/livia/Documentos/leads.png"
+         y="556.95746"
+         x="102.06332"
+         height="30.404318"
+         width="77.914864"
+         id="rect3980"
+         style="fill:#ffffff;fill-opacity:0.61538463;stroke:none" />
+      <rect
+         inkscape:export-ydpi="94.268707"
+         inkscape:export-xdpi="94.268707"
+         inkscape:export-filename="/home/livia/Documentos/leads.png"
+         style="fill:#ffffff;fill-opacity:0.61538463;stroke:none"
+         id="rect3986"
+         width="77.914864"
+         height="30.404318"
+         x="102.06332"
+         y="518.9422" />
+      <g
+         inkscape:export-ydpi="94.268707"
+         inkscape:export-xdpi="94.268707"
+         inkscape:export-filename="/home/livia/Documentos/leads.png"
+         transform="matrix(0.78879381,0,0,0.78879381,-118.58731,-170.85449)"
+         id="g4000">
+        <path
+           sodipodi:type="arc"
+           style="fill:#735c4c;fill-opacity:1;stroke:none"
+           id="path3994"
+           sodipodi:cx="308.34906"
+           sodipodi:cy="898.0614"
+           sodipodi:rx="2.7779195"
+           sodipodi:ry="2.7779195"
+           d="m 311.12698,898.0614 c 0,1.5342 -1.24372,2.77792 -2.77792,2.77792 -1.5342,0 -2.77792,-1.24372 -2.77792,-2.77792 0,-1.5342 1.24372,-2.77792 2.77792,-2.77792 1.5342,0 2.77792,1.24372 2.77792,2.77792 z"
+           transform="matrix(1.6363636,0,0,1.6363636,-191.92898,-575.78676)" />
+        <path
+           transform="matrix(1.6363636,0,0,1.6363636,-158.97275,-575.78676)"
+           d="m 311.12698,898.0614 c 0,1.5342 -1.24372,2.77792 -2.77792,2.77792 -1.5342,0 -2.77792,-1.24372 -2.77792,-2.77792 0,-1.5342 1.24372,-2.77792 2.77792,-2.77792 1.5342,0 2.77792,1.24372 2.77792,2.77792 z"
+           sodipodi:ry="2.7779195"
+           sodipodi:rx="2.7779195"
+           sodipodi:cy="898.0614"
+           sodipodi:cx="308.34906"
+           id="path3996"
+           style="fill:#735c4c;fill-opacity:1;stroke:none"
+           sodipodi:type="arc" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect3998"
+           width="34.597725"
+           height="3.5986683"
+           x="311.94772"
+           y="891.96887"
+           ry="1.7993342" />
+      </g>
+      <g
+         inkscape:export-ydpi="94.268707"
+         inkscape:export-xdpi="94.268707"
+         inkscape:export-filename="/home/livia/Documentos/leads.png"
+         id="g4005"
+         transform="matrix(0.78879381,0,0,0.78879381,-118.58731,-132.83924)">
+        <path
+           transform="matrix(1.6363636,0,0,1.6363636,-191.92898,-575.78676)"
+           d="m 311.12698,898.0614 c 0,1.5342 -1.24372,2.77792 -2.77792,2.77792 -1.5342,0 -2.77792,-1.24372 -2.77792,-2.77792 0,-1.5342 1.24372,-2.77792 2.77792,-2.77792 1.5342,0 2.77792,1.24372 2.77792,2.77792 z"
+           sodipodi:ry="2.7779195"
+           sodipodi:rx="2.7779195"
+           sodipodi:cy="898.0614"
+           sodipodi:cx="308.34906"
+           id="path4007"
+           style="fill:#735c4c;fill-opacity:1;stroke:none"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#735c4c;fill-opacity:1;stroke:none"
+           id="path4009"
+           sodipodi:cx="308.34906"
+           sodipodi:cy="898.0614"
+           sodipodi:rx="2.7779195"
+           sodipodi:ry="2.7779195"
+           d="m 311.12698,898.0614 c 0,1.5342 -1.24372,2.77792 -2.77792,2.77792 -1.5342,0 -2.77792,-1.24372 -2.77792,-2.77792 0,-1.5342 1.24372,-2.77792 2.77792,-2.77792 1.5342,0 2.77792,1.24372 2.77792,2.77792 z"
+           transform="matrix(1.6363636,0,0,1.6363636,-158.97275,-575.78676)" />
+        <rect
+           ry="1.7993342"
+           y="891.96887"
+           x="311.94772"
+           height="3.5986683"
+           width="34.597725"
+           id="rect4011"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+      <rect
+         inkscape:export-ydpi="94.268707"
+         inkscape:export-xdpi="94.268707"
+         inkscape:export-filename="/home/livia/Documentos/leads.png"
+         y="489.36093"
+         x="118.66048"
+         height="29.581278"
+         width="44.720516"
+         id="rect4013"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <g
+         inkscape:export-ydpi="94.268707"
+         inkscape:export-xdpi="94.268707"
+         inkscape:export-filename="/home/livia/Documentos/leads.png"
+         transform="matrix(0.78879381,0,0,0.78879381,-124.76253,-170.69271)"
+         id="g4027">
+        <rect
+           style="fill:#808080;fill-opacity:1;stroke:none"
+           id="rect4015"
+           width="47.729706"
+           height="1.0732871"
+           x="313.08414"
+           y="841.74536" />
+        <rect
+           y="843.74536"
+           x="313.08414"
+           height="1.0732871"
+           width="47.729706"
+           id="rect4017"
+           style="fill:#808080;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:#808080;fill-opacity:1;stroke:none"
+           id="rect4019"
+           width="47.729706"
+           height="1.0732871"
+           x="313.08414"
+           y="845.74536" />
+        <rect
+           y="847.74536"
+           x="313.08414"
+           height="1.0732871"
+           width="47.729706"
+           id="rect4021"
+           style="fill:#808080;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:#808080;fill-opacity:1;stroke:none"
+           id="rect4023"
+           width="47.729706"
+           height="1.0732871"
+           x="313.08414"
+           y="849.74536" />
+        <rect
+           y="851.74536"
+           x="313.08414"
+           height="1.0732871"
+           width="23.738583"
+           id="rect4025"
+           style="fill:#808080;fill-opacity:1;stroke:none" />
+      </g>
+    </g>
+    <g
+       id="g4860"
+       transform="translate(-495.89751,-122.10624)">
+      <path
+         transform="matrix(1.1814028,0,0,1.1814028,354.26982,-96.856397)"
+         d="m 288.90363,744.26569 c 0,37.93664 -30.75373,68.69037 -68.69037,68.69037 -37.93665,0 -68.69038,-30.75373 -68.69038,-68.69037 0,-37.93665 30.75373,-68.69038 68.69038,-68.69038 37.93664,0 68.69037,30.75373 68.69037,68.69038 z"
+         sodipodi:ry="68.690376"
+         sodipodi:rx="68.690376"
+         sodipodi:cy="744.26569"
+         sodipodi:cx="220.21326"
+         id="path3073"
+         style="fill:#a6d1ed;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <g
+         transform="matrix(5.341263,0,0,5.341263,550.33523,-4777.2995)"
+         id="g3083">
+        <path
+           style="fill:#a4a4a4;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 24,14 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
+           transform="matrix(1,0,0,1.25,-10,1031.4)"
+           id="path3085" />
+        <path
+           style="fill:#e2b214;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 12,1030.4 c -3.866,0 -7,3.2 -7,7.2 0,3.1 3.125,5.9 4,7.8 0.875,1.8 0,5 0,5 l 3,-0.5 3,0.5 c 0,0 -0.875,-3.2 0,-5 0.875,-1.9 4,-4.7 4,-7.8 0,-4 -3.134,-7.2 -7,-7.2 z"
+           id="path3087" />
+        <path
+           style="fill:#f0cf59;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 12,1030.4 c 3.866,0 7,3.2 7,7.2 0,3.1 -3.125,5.9 -4,7.8 -0.875,1.8 0,5 0,5 l -3,-0.5 v -19.5 z"
+           id="path3089" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           height="5"
+           width="6"
+           x="9"
+           y="1045.4"
+           id="rect3093" />
+        <path
+           style="fill:#cecece;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 9,1045.4 v 5 h 3 v -1 h 3 v -1 h -3 v -1 h 3 v -1 h -3 v -1 H 9 z"
+           id="path3095" />
+        <path
+           style="fill:#a4a4a4;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 9,1046.4 v 1 h 3 v -1 H 9 z m 0,2 v 1 h 3 v -1 H 9 z"
+           id="path3097" />
+      </g>
+    </g>
+    <g
+       id="g4925"
+       transform="translate(249.423,-159.89644)"
+       inkscape:export-filename="/home/livia/Documentos/105_canais.png"
+       inkscape:export-xdpi="58.224785"
+       inkscape:export-ydpi="58.224785">
+      <path
+         inkscape:export-ydpi="94.268707"
+         inkscape:export-xdpi="94.268707"
+         inkscape:export-filename="/home/livia/Documentos/keyword_panel.png"
+         transform="matrix(1.8250827,0,0,1.8250827,-2229.3929,-3511.6792)"
+         d="m 1477.5001,2084.3264 c 0,24.557 -19.9074,44.4643 -44.4643,44.4643 -24.557,0 -44.4643,-19.9073 -44.4643,-44.4643 0,-24.5569 19.9073,-44.4643 44.4643,-44.4643 24.5569,0 44.4643,19.9074 44.4643,44.4643 z"
+         sodipodi:ry="44.464287"
+         sodipodi:rx="44.464287"
+         sodipodi:cy="2084.3264"
+         sodipodi:cx="1433.0358"
+         id="path5214"
+         style="fill:#a6d1ed;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="94.268707"
+         inkscape:export-xdpi="94.268707"
+         inkscape:export-filename="/home/livia/Documentos/keyword_panel.png"
+         sodipodi:type="arc"
+         style="fill:#7eb5da;fill-opacity:1;stroke:none"
+         id="path5216"
+         sodipodi:cx="1433.0358"
+         sodipodi:cy="2084.3264"
+         sodipodi:rx="44.464287"
+         sodipodi:ry="44.464287"
+         d="m 1477.5001,2084.3264 c 0,24.557 -19.9074,44.4643 -44.4643,44.4643 -24.557,0 -44.4643,-19.9073 -44.4643,-44.4643 0,-24.5569 19.9073,-44.4643 44.4643,-44.4643 24.5569,0 44.4643,19.9074 44.4643,44.4643 z"
+         transform="matrix(1.4937129,0,0,1.4937129,-1754.5282,-2820.9964)" />
+      <path
+         inkscape:export-ydpi="94.268707"
+         inkscape:export-xdpi="94.268707"
+         inkscape:export-filename="/home/livia/Documentos/keyword_panel.png"
+         transform="matrix(1.1266572,0,0,1.1266572,-1228.5242,-2055.9325)"
+         d="m 1477.5001,2084.3264 c 0,24.557 -19.9074,44.4643 -44.4643,44.4643 -24.557,0 -44.4643,-19.9073 -44.4643,-44.4643 0,-24.5569 19.9073,-44.4643 44.4643,-44.4643 24.5569,0 44.4643,19.9074 44.4643,44.4643 z"
+         sodipodi:ry="44.464287"
+         sodipodi:rx="44.464287"
+         sodipodi:cy="2084.3264"
+         sodipodi:cx="1433.0358"
+         id="path5218"
+         style="fill:#a6d1ed;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="94.268707"
+         inkscape:export-xdpi="94.268707"
+         inkscape:export-filename="/home/livia/Documentos/keyword_panel.png"
+         sodipodi:type="arc"
+         style="fill:#7eb5da;fill-opacity:1;stroke:none"
+         id="path5220"
+         sodipodi:cx="1433.0358"
+         sodipodi:cy="2084.3264"
+         sodipodi:rx="44.464287"
+         sodipodi:ry="44.464287"
+         d="m 1477.5001,2084.3264 c 0,24.557 -19.9074,44.4643 -44.4643,44.4643 -24.557,0 -44.4643,-19.9073 -44.4643,-44.4643 0,-24.5569 19.9073,-44.4643 44.4643,-44.4643 24.5569,0 44.4643,19.9074 44.4643,44.4643 z"
+         transform="matrix(0.79018944,0,0,0.79018944,-746.3539,-1354.6239)" />
+      <path
+         inkscape:export-ydpi="94.268707"
+         inkscape:export-xdpi="94.268707"
+         inkscape:export-filename="/home/livia/Documentos/keyword_panel.png"
+         transform="matrix(0.42313368,0,0,0.42313368,-220.3499,-589.55989)"
+         d="m 1477.5001,2084.3264 c 0,24.557 -19.9074,44.4643 -44.4643,44.4643 -24.557,0 -44.4643,-19.9073 -44.4643,-44.4643 0,-24.5569 19.9073,-44.4643 44.4643,-44.4643 24.5569,0 44.4643,19.9074 44.4643,44.4643 z"
+         sodipodi:ry="44.464287"
+         sodipodi:rx="44.464287"
+         sodipodi:cy="2084.3264"
+         sodipodi:cx="1433.0358"
+         id="path5222"
+         style="fill:#a6d1ed;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:export-ydpi="94.268707"
+         inkscape:export-xdpi="94.268707"
+         inkscape:export-filename="/home/livia/Documentos/keyword_panel.png"
+         inkscape:connector-curvature="0"
+         id="path5224"
+         d="m 417.3429,238.14368 -0.09,23.7193 25.0047,-0.4808 24.7257,-25.9238 -23.1228,-0.8441 0.1732,-22.7832 z"
+         style="fill:#82c4b6;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="94.268707"
+         inkscape:export-xdpi="94.268707"
+         inkscape:export-filename="/home/livia/Documentos/keyword_panel.png"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path5230"
+         d="m 444.5794,234.64918 5.2843,0.1638 -26.2941,26.9742 -4.5336,0 z"
+         style="fill:#000000;fill-opacity:0.15579708;stroke:none" />
+      <path
+         inkscape:export-ydpi="94.268707"
+         inkscape:export-xdpi="94.268707"
+         inkscape:export-filename="/home/livia/Documentos/keyword_panel.png"
+         sodipodi:nodetypes="cczccc"
+         inkscape:connector-curvature="0"
+         id="path5234"
+         d="m 391.3676,291.19648 54.4863,55.9988 c 0,0 -1.1171,1.237 -1.7303,1.8703 -0.6133,0.6332 -1.9511,1.9252 -1.9511,1.9252 l -55.558,-57.4206 z"
+         style="opacity:0.05333336;fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="94.268707"
+         inkscape:export-xdpi="94.268707"
+         inkscape:export-filename="/home/livia/Documentos/keyword_panel.png"
+         sodipodi:nodetypes="czcczcc"
+         inkscape:connector-curvature="0"
+         id="path5226"
+         d="m 384.3749,289.90668 c 0,0 -0.021,2.1372 1.3599,3.5701 1.3823,1.433 3.5703,1.4168 3.5703,1.4168 l 68.1736,-69.7037 c 0,0 0.1844,-2.199 -0.68,-3.2869 -0.8645,-1.0879 -3.3435,-1.36 -3.3435,-1.36 z"
+         style="fill:#ebeeef;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g4870"
+       transform="translate(256.28801,-291.19825)">
+      <circle
+         inkscape:export-ydpi="94"
+         inkscape:export-xdpi="94"
+         inkscape:export-filename="/home/livia/Área de Trabalho/social_media_posts.png"
+         transform="matrix(0.63399218,0,0,0.63399218,297.99987,698.06017)"
+         d="M 256,128 C 256,198.69245 198.69245,256 128,256 57.307552,256 0,198.69245 0,128 0,57.307552 57.307552,0 128,0 198.69245,0 256,57.307552 256,128 z"
+         style="fill:#a6d1ed;fill-opacity:1"
+         sodipodi:ry="128"
+         sodipodi:rx="128"
+         sodipodi:cy="128"
+         sodipodi:cx="128"
+         cx="128"
+         cy="128"
+         r="128"
+         id="circle7837" />
+      <path
+         inkscape:export-ydpi="94.269997"
+         inkscape:export-xdpi="94.269997"
+         inkscape:export-filename="/home/livia/Área de Trabalho/social_media_posts.png"
+         id="path7841"
+         d="m 438.08591,744.19493 v 51.0151 c 0,4.11254 -3.28138,7.29705 -7.39367,7.29705 h -3.73566 v 14.79594 l -12.5286,-14.79594 h -65.87427 c -4.11229,0 -7.84947,-3.18451 -7.84947,-7.29705 v -51.0151 c 0,-4.11204 3.73718,-7.70504 7.84947,-7.70504 h 82.13828 c 4.11254,0 7.39392,3.593 7.39392,7.70504 z"
+         inkscape:connector-curvature="0"
+         style="fill:#82c4b6;fill-opacity:1" />
+      <circle
+         transform="matrix(0.25293941,0,0,0.25293941,314.39854,719.54295)"
+         inkscape:export-ydpi="94.269997"
+         inkscape:export-xdpi="94.269997"
+         inkscape:export-filename="/home/livia/Área de Trabalho/social_media_posts.png"
+         id="circle7843"
+         r="39.283001"
+         cy="207.13699"
+         cx="316.65201"
+         sodipodi:cx="316.65201"
+         sodipodi:cy="207.13699"
+         sodipodi:rx="39.283001"
+         sodipodi:ry="39.283001"
+         style="fill:#abb7b7"
+         d="m 355.93501,207.13699 c 0,21.69541 -17.5876,39.283 -39.283,39.283 -21.6954,0 -39.283,-17.58759 -39.283,-39.283 0,-21.6954 17.5876,-39.283 39.283,-39.283 21.6954,0 39.283,17.5876 39.283,39.283 z" />
+      <circle
+         transform="matrix(0.25293941,0,0,0.25293941,314.39854,719.54295)"
+         inkscape:export-ydpi="94.269997"
+         inkscape:export-xdpi="94.269997"
+         inkscape:export-filename="/home/livia/Área de Trabalho/social_media_posts.png"
+         id="circle7845"
+         r="39.282001"
+         cy="207.13699"
+         cx="213.715"
+         sodipodi:cx="213.715"
+         sodipodi:cy="207.13699"
+         sodipodi:rx="39.282001"
+         sodipodi:ry="39.282001"
+         style="fill:#abb7b7"
+         d="m 252.997,207.13699 c 0,21.69485 -17.58715,39.282 -39.282,39.282 -21.69485,0 -39.28201,-17.58715 -39.28201,-39.282 0,-21.69485 17.58716,-39.282 39.28201,-39.282 21.69485,0 39.282,17.58715 39.282,39.282 z" />
+      <polygon
+         transform="matrix(0.25293941,0,0,0.25293941,314.39854,719.54295)"
+         inkscape:export-ydpi="94.269997"
+         inkscape:export-xdpi="94.269997"
+         inkscape:export-filename="/home/livia/Área de Trabalho/social_media_posts.png"
+         id="polygon7847"
+         points="144.7,341 65,444.903 65,341 "
+         style="fill:#72b1d9;fill-opacity:1" />
+      <path
+         inkscape:export-ydpi="94.269997"
+         inkscape:export-xdpi="94.269997"
+         inkscape:export-filename="/home/livia/Área de Trabalho/social_media_posts.png"
+         id="path7849"
+         d="m 426.95658,817.30302 v -14.79594 h 3.73566 c 4.11229,0 7.39367,-3.18451 7.39367,-7.29705 v -22.4031 l -23.04683,-27.12724 -8.23393,56.82739 h 7.62283 l 12.5286,14.79594 z"
+         inkscape:connector-curvature="0"
+         style="opacity:0.3;fill:#292826" />
+      <path
+         inkscape:export-ydpi="94.269997"
+         inkscape:export-xdpi="94.269997"
+         inkscape:export-filename="/home/livia/Área de Trabalho/social_media_posts.png"
+         id="path7851"
+         d="m 416.58606,806.13271 c 0,4.4234 -3.58617,8.00958 -8.01008,8.00958 h -80.34975 c -4.42391,0 -8.01008,-3.58618 -8.01008,-8.00958 v -55.81563 c 0,-4.42366 3.58617,-8.00958 8.01008,-8.00958 h 80.34975 c 4.42391,0 8.01008,3.58592 8.01008,8.00958 v 55.81563 z"
+         inkscape:connector-curvature="0"
+         style="fill:#72b1d9;fill-opacity:1" />
+      <circle
+         transform="matrix(0.25293941,0,0,0.25293941,314.39854,719.54295)"
+         inkscape:export-ydpi="94.269997"
+         inkscape:export-xdpi="94.269997"
+         inkscape:export-filename="/home/livia/Área de Trabalho/social_media_posts.png"
+         id="circle7853"
+         r="39.283001"
+         cy="232.16901"
+         cx="213.745"
+         sodipodi:cx="213.745"
+         sodipodi:cy="232.16901"
+         sodipodi:rx="39.283001"
+         sodipodi:ry="39.283001"
+         style="opacity:0.8;fill:#ffffff"
+         d="m 253.028,232.16901 c 0,21.6954 -17.5876,39.283 -39.283,39.283 -21.69541,0 -39.28301,-17.5876 -39.28301,-39.283 0,-21.69541 17.5876,-39.283 39.28301,-39.283 21.6954,0 39.283,17.58759 39.283,39.283 z" />
+      <circle
+         transform="matrix(0.25293941,0,0,0.25293941,314.39854,719.54295)"
+         inkscape:export-ydpi="94.269997"
+         inkscape:export-xdpi="94.269997"
+         inkscape:export-filename="/home/livia/Área de Trabalho/social_media_posts.png"
+         id="circle7855"
+         r="39.282001"
+         cy="232.16901"
+         cx="316.681"
+         sodipodi:cx="316.681"
+         sodipodi:cy="232.16901"
+         sodipodi:rx="39.282001"
+         sodipodi:ry="39.282001"
+         style="opacity:0.8;fill:#ffffff"
+         d="m 355.963,232.16901 c 0,21.69485 -17.58715,39.282 -39.282,39.282 -21.69485,0 -39.282,-17.58715 -39.282,-39.282 0,-21.69485 17.58715,-39.28201 39.282,-39.28201 21.69485,0 39.282,17.58716 39.282,39.28201 z" />
+      <circle
+         transform="matrix(0.25293941,0,0,0.25293941,314.39854,719.54295)"
+         inkscape:export-ydpi="94.269997"
+         inkscape:export-xdpi="94.269997"
+         inkscape:export-filename="/home/livia/Área de Trabalho/social_media_posts.png"
+         id="circle7857"
+         r="39.283001"
+         cy="232.16901"
+         cx="110.807"
+         sodipodi:cx="110.807"
+         sodipodi:cy="232.16901"
+         sodipodi:rx="39.283001"
+         sodipodi:ry="39.283001"
+         style="opacity:0.8;fill:#ffffff"
+         d="m 150.09,232.16901 c 0,21.6954 -17.5876,39.283 -39.283,39.283 -21.695403,0 -39.283002,-17.5876 -39.283002,-39.283 0,-21.69541 17.587599,-39.283 39.283002,-39.283 21.6954,0 39.283,17.58759 39.283,39.283 z" />
+    </g>
+    <g
+       id="g4882"
+       transform="translate(259.07987,-240.66628)"
+       inkscape:export-filename="/home/livia/Documentos/105_campanhas.png"
+       inkscape:export-xdpi="58.224773"
+       inkscape:export-ydpi="58.224773">
+      <path
+         transform="matrix(1.181403,0,0,1.181403,116.19843,-328.30698)"
+         d="m 288.90363,744.26569 c 0,37.93664 -30.75373,68.69037 -68.69037,68.69037 -37.93665,0 -68.69038,-30.75373 -68.69038,-68.69037 0,-37.93665 30.75373,-68.69038 68.69038,-68.69038 37.93664,0 68.69037,30.75373 68.69037,68.69038 z"
+         sodipodi:ry="68.690376"
+         sodipodi:rx="68.690376"
+         sodipodi:cy="744.26569"
+         sodipodi:cx="220.21326"
+         id="path3912"
+         style="fill:#a6d1ed;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-ydpi="94.268669" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         style="fill:#735c4c;fill-opacity:1;stroke:none"
+         id="rect3805"
+         width="107.797"
+         height="6.6852875"
+         x="322.46054"
+         y="509.86581"
+         ry="0" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         ry="0"
+         y="516.51276"
+         x="322.46054"
+         height="79.310287"
+         width="107.797"
+         id="rect3033"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         style="fill:#cce6e1;fill-opacity:1;stroke:none"
+         id="rect3807"
+         width="97.165894"
+         height="26.29464"
+         x="327.77609"
+         y="521.91821"
+         ry="0" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         ry="0"
+         y="552.80988"
+         x="327.77609"
+         height="14.124822"
+         width="29.545607"
+         id="rect3809"
+         style="fill:#cce6e1;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         style="fill:#cce6e1;fill-opacity:1;stroke:none"
+         id="rect3811"
+         width="29.545607"
+         height="14.124822"
+         x="361.58621"
+         y="552.66998"
+         ry="0" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         ry="0"
+         y="552.66998"
+         x="395.39636"
+         height="38.999821"
+         width="29.545607"
+         id="rect3813"
+         style="fill:#a6d1ed;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none"
+         id="rect3819"
+         width="29.545607"
+         height="0.86842549"
+         x="327.77609"
+         y="570.74152"
+         ry="0" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         ry="0"
+         y="572.95715"
+         x="327.77609"
+         height="0.86842549"
+         width="29.545607"
+         id="rect3821"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none"
+         id="rect3823"
+         width="29.545607"
+         height="0.86842549"
+         x="327.77609"
+         y="575.17279"
+         ry="0" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         ry="0"
+         y="577.38843"
+         x="327.77609"
+         height="0.86842549"
+         width="29.545607"
+         id="rect3825"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none"
+         id="rect3827"
+         width="29.545607"
+         height="0.86842549"
+         x="327.77609"
+         y="579.60406"
+         ry="0" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         ry="0"
+         y="581.8197"
+         x="327.77609"
+         height="0.86842549"
+         width="29.545607"
+         id="rect3829"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none"
+         id="rect3831"
+         width="29.545607"
+         height="0.86842549"
+         x="327.77609"
+         y="584.03534"
+         ry="0" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         ry="0"
+         y="586.25098"
+         x="327.77609"
+         height="0.86842549"
+         width="29.545607"
+         id="rect3833"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none"
+         id="rect3835"
+         width="29.545607"
+         height="0.86842549"
+         x="327.77609"
+         y="588.46661"
+         ry="0" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         ry="0"
+         y="590.68225"
+         x="327.77609"
+         height="0.86842549"
+         width="29.545607"
+         id="rect3837"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         ry="0"
+         y="570.74158"
+         x="361.58621"
+         height="0.86842549"
+         width="29.545607"
+         id="rect3839"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none"
+         id="rect3841"
+         width="29.545607"
+         height="0.86842549"
+         x="361.58621"
+         y="572.95721"
+         ry="0" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         ry="0"
+         y="575.17285"
+         x="361.58621"
+         height="0.86842549"
+         width="29.545607"
+         id="rect3843"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none"
+         id="rect3845"
+         width="29.545607"
+         height="0.86842549"
+         x="361.58621"
+         y="577.38849"
+         ry="0" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         ry="0"
+         y="579.60413"
+         x="361.58621"
+         height="0.86842549"
+         width="29.545607"
+         id="rect3847"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none"
+         id="rect3849"
+         width="29.545607"
+         height="0.86842549"
+         x="361.58621"
+         y="581.81976"
+         ry="0" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         ry="0"
+         y="584.03534"
+         x="361.58621"
+         height="0.86842549"
+         width="29.545607"
+         id="rect3851"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none"
+         id="rect3853"
+         width="29.545607"
+         height="0.86842549"
+         x="361.58621"
+         y="586.25098"
+         ry="0" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         ry="0"
+         y="588.46661"
+         x="361.58621"
+         height="0.86842549"
+         width="29.545607"
+         id="rect3855"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         style="fill:#000000;fill-opacity:0.16666667;stroke:none"
+         id="rect3857"
+         width="29.545607"
+         height="0.86842549"
+         x="361.58621"
+         y="590.68225"
+         ry="0" />
+      <g
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         id="g3871"
+         transform="matrix(0.93908853,0,0,0.66375574,63.999342,69.695566)"
+         style="fill:#ffffff;fill-opacity:1">
+        <rect
+           ry="0"
+           y="752.66034"
+           x="355.28815"
+           height="2.8149295"
+           width="26.670124"
+           id="rect3873"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         style="fill:#f58676;fill-opacity:1;stroke:none"
+         id="rect3172"
+         width="12.757712"
+         height="3.8059258"
+         x="409.93427"
+         y="585.65637"
+         ry="0" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         ry="0"
+         y="554.94666"
+         x="397.64636"
+         height="11.516827"
+         width="25.046"
+         id="rect4046"
+         style="fill:#000000;fill-opacity:0.38043482;stroke:none" />
+      <g
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         style="fill:#517971;fill-opacity:1"
+         transform="matrix(0.47391447,0,0,0.27631824,229.27017,360.0081)"
+         id="g4064">
+        <rect
+           style="fill:#517971;fill-opacity:1;stroke:none"
+           id="rect4066"
+           width="26.670124"
+           height="2.8149295"
+           x="355.28815"
+           y="752.66034"
+           ry="0" />
+      </g>
+      <g
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         style="fill:#ffffff;fill-opacity:1"
+         transform="matrix(0.93908853,0,0,0.66375574,63.999342,75.695566)"
+         id="g4068">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect4070"
+           width="26.670124"
+           height="2.8149295"
+           x="355.28815"
+           y="752.66034"
+           ry="0" />
+      </g>
+      <g
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         id="g4072"
+         transform="matrix(0.47391447,0,0,0.27631824,229.27017,366.0081)"
+         style="fill:#517971;fill-opacity:1">
+        <rect
+           ry="0"
+           y="752.66034"
+           x="355.28815"
+           height="2.8149295"
+           width="26.670124"
+           id="rect4074"
+           style="fill:#517971;fill-opacity:1;stroke:none" />
+      </g>
+      <g
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         id="g4076"
+         transform="matrix(0.93908853,0,0,0.66375574,63.999342,81.695566)"
+         style="fill:#ffffff;fill-opacity:1">
+        <rect
+           ry="0"
+           y="752.66034"
+           x="355.28815"
+           height="2.8149295"
+           width="26.670124"
+           id="rect4078"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+      <g
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         style="fill:#517971;fill-opacity:1"
+         transform="matrix(0.47391447,0,0,0.27631824,229.27017,372.0081)"
+         id="g4080">
+        <rect
+           style="fill:#517971;fill-opacity:1;stroke:none"
+           id="rect4082"
+           width="26.670124"
+           height="2.8149295"
+           x="355.28815"
+           y="752.66034"
+           ry="0" />
+      </g>
+    </g>
+    <g
+       id="g4964"
+       transform="translate(322.11609,-283.78175)">
+      <path
+         inkscape:export-ydpi="94.268715"
+         inkscape:export-xdpi="94.268715"
+         inkscape:export-filename="/home/livia/Documentos/lead_nurturing.png"
+         sodipodi:type="arc"
+         style="fill:#a6d1ed;fill-opacity:1;stroke:none"
+         id="path3914"
+         sodipodi:cx="220.21326"
+         sodipodi:cy="744.26569"
+         sodipodi:rx="68.690376"
+         sodipodi:ry="68.690376"
+         d="m 288.90363,744.26569 c 0,37.93664 -30.75373,68.69037 -68.69037,68.69037 -37.93665,0 -68.69038,-30.75373 -68.69038,-68.69037 0,-37.93665 30.75373,-68.69038 68.69038,-68.69038 37.93664,0 68.69037,30.75373 68.69037,68.69038 z"
+         transform="matrix(1.1814028,0,0,1.1814028,-119.13977,-107.4829)" />
+      <g
+         inkscape:export-ydpi="94.268715"
+         inkscape:export-xdpi="94.268715"
+         inkscape:export-filename="/home/livia/Documentos/lead_nurturing.png"
+         transform="translate(1.7267008e-6,3.4085856e-5)"
+         id="g4098">
+        <g
+           id="g3015"
+           transform="matrix(3.8939007,0,0,3.8939007,93.058528,-3260.7153)"
+           style="fill:#ffffff;fill-opacity:1">
+          <path
+             id="path3019"
+             d="m 10,1033.3 -2.0312,0.1 v 2.1 c -0.3602,0 -0.712,0.1 -1.0626,0.2 l -1.0624,-1.8 -1.7188,1 1.0312,1.8 c -0.2891,0.3 -0.5468,0.5 -0.7812,0.8 l -1.8125,-1 -1,1.7 1.8125,1.1 c -0.1343,0.3 -0.2489,0.7 -0.3125,1.1 H 0.9687 l 5e-5,2 h 2.125 c 0.0627,0.4 0.1498,0.7 0.2812,1.1 l -1.8125,1 1,1.7 1.8125,-1 c 0.2379,0.3 0.5008,0.5 0.7812,0.8 l -1.0624,1.8 1.75,1 1.0312,-1.8 c 0.3599,0.1 0.7461,0.2 1.125,0.3 v 2.1 h 2 v -2.1 c 0.36,-0.1 0.712,-0.2 1.062,-0.3 l 1.063,1.8 1.719,-1 -1.032,-1.8 c 0.29,-0.3 0.547,-0.5 0.782,-0.8 l 1.812,1 1.032,-1.7 -1.844,-1 c 0.134,-0.4 0.249,-0.8 0.312,-1.1 h 2.094 v -2.1 h -2.125 c -0.063,-0.3 -0.15,-0.7 -0.281,-1 l 1.812,-1.1 -1,-1.7 -1.812,1 c -0.238,-0.2 -0.501,-0.5 -0.782,-0.7 l 1.063,-1.9 -1.75,-1 -1.031,1.8 c -0.36,-0.1 -0.746,-0.2 -1.1252,-0.2 l 0.0312,-2.2 z m -1,5.1 c 1.657,0 3,1.3 3,3 0,1.6 -1.343,3 -3,3 -1.6569,0 -3,-1.4 -3,-3 0,-1.7 1.3431,-3 3,-3 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+        <g
+           style="fill:#72b1d9;fill-opacity:1"
+           transform="matrix(2.651993,-0.52174988,0.52174988,2.651993,-423.29507,-2017.0417)"
+           id="g3956">
+          <path
+             style="fill:#72b1d9;fill-opacity:1"
+             inkscape:connector-curvature="0"
+             d="m 10,1033.3 -2.0312,0.1 v 2.1 c -0.3602,0 -0.712,0.1 -1.0626,0.2 l -1.0624,-1.8 -1.7188,1 1.0312,1.8 c -0.2891,0.3 -0.5468,0.5 -0.7812,0.8 l -1.8125,-1 -1,1.7 1.8125,1.1 c -0.1343,0.3 -0.2489,0.7 -0.3125,1.1 H 0.9687 l 5e-5,2 h 2.125 c 0.0627,0.4 0.1498,0.7 0.2812,1.1 l -1.8125,1 1,1.7 1.8125,-1 c 0.2379,0.3 0.5008,0.5 0.7812,0.8 l -1.0624,1.8 1.75,1 1.0312,-1.8 c 0.3599,0.1 0.7461,0.2 1.125,0.3 v 2.1 h 2 v -2.1 c 0.36,-0.1 0.712,-0.2 1.062,-0.3 l 1.063,1.8 1.719,-1 -1.032,-1.8 c 0.29,-0.3 0.547,-0.5 0.782,-0.8 l 1.812,1 1.032,-1.7 -1.844,-1 c 0.134,-0.4 0.249,-0.8 0.312,-1.1 h 2.094 v -2.1 h -2.125 c -0.063,-0.3 -0.15,-0.7 -0.281,-1 l 1.812,-1.1 -1,-1.7 -1.812,1 c -0.238,-0.2 -0.501,-0.5 -0.782,-0.7 l 1.063,-1.9 -1.75,-1 -1.031,1.8 c -0.36,-0.1 -0.746,-0.2 -1.1252,-0.2 l 0.0312,-2.2 z m -1,5.1 c 1.657,0 3,1.3 3,3 0,1.6 -1.343,3 -3,3 -1.6569,0 -3,-1.4 -3,-3 0,-1.7 1.3431,-3 3,-3 z"
+             id="path3958" />
+        </g>
+        <g
+           id="g3960"
+           transform="matrix(1.772306,0,0,1.772306,155.08191,-1076.7284)"
+           style="fill:#82c4b6;fill-opacity:1">
+          <path
+             id="path3962"
+             d="m 10,1033.3 -2.0312,0.1 v 2.1 c -0.3602,0 -0.712,0.1 -1.0626,0.2 l -1.0624,-1.8 -1.7188,1 1.0312,1.8 c -0.2891,0.3 -0.5468,0.5 -0.7812,0.8 l -1.8125,-1 -1,1.7 1.8125,1.1 c -0.1343,0.3 -0.2489,0.7 -0.3125,1.1 H 0.9687 l 5e-5,2 h 2.125 c 0.0627,0.4 0.1498,0.7 0.2812,1.1 l -1.8125,1 1,1.7 1.8125,-1 c 0.2379,0.3 0.5008,0.5 0.7812,0.8 l -1.0624,1.8 1.75,1 1.0312,-1.8 c 0.3599,0.1 0.7461,0.2 1.125,0.3 v 2.1 h 2 v -2.1 c 0.36,-0.1 0.712,-0.2 1.062,-0.3 l 1.063,1.8 1.719,-1 -1.032,-1.8 c 0.29,-0.3 0.547,-0.5 0.782,-0.8 l 1.812,1 1.032,-1.7 -1.844,-1 c 0.134,-0.4 0.249,-0.8 0.312,-1.1 h 2.094 v -2.1 h -2.125 c -0.063,-0.3 -0.15,-0.7 -0.281,-1 l 1.812,-1.1 -1,-1.7 -1.812,1 c -0.238,-0.2 -0.501,-0.5 -0.782,-0.7 l 1.063,-1.9 -1.75,-1 -1.031,1.8 c -0.36,-0.1 -0.746,-0.2 -1.1252,-0.2 l 0.0312,-2.2 z m -1,5.1 c 1.657,0 3,1.3 3,3 0,1.6 -1.343,3 -3,3 -1.6569,0 -3,-1.4 -3,-3 0,-1.7 1.3431,-3 3,-3 z"
+             inkscape:connector-curvature="0"
+             style="fill:#82c4b6;fill-opacity:1" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g5257"
+       transform="matrix(1.040595,0,0,0.31012917,-25.084427,461.94924)">
+      <rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         style="fill:#f58676;fill-opacity:1;stroke:none"
+         id="rect3091"
+         width="55.082775"
+         height="77.920021"
+         x="-991.41638"
+         y="-563.7326" />
+      <rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         y="-488.48157"
+         x="-991.41516"
+         height="219.7916"
+         width="55.079826"
+         id="rect4092"
+         style="fill:#82c4b6;fill-opacity:1;stroke:none" />
+      <rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         y="-271.95847"
+         x="-991.41638"
+         height="211.92903"
+         width="55.082775"
+         id="rect4108"
+         style="fill:#a6d1ed;fill-opacity:1;stroke:none" />
+      <rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         style="fill:#735c4c;fill-opacity:1;stroke:none"
+         id="rect4110"
+         width="55.082775"
+         height="152.62888"
+         x="-991.41638"
+         y="-712.7406" />
+    </g>
+    <g
+       id="g5017"
+       transform="translate(417.31996,-191.66718)">
+      <g
+         transform="matrix(0.81667602,0,0,0.81667602,145.93833,-138.66471)"
+         id="g3900">
+        <g
+           inkscape:export-ydpi="94.268707"
+           inkscape:export-xdpi="94.268707"
+           inkscape:export-filename="/home/livia/Documentos/unavailable_feature.png"
+           transform="translate(-56.325886,-82.569951)"
+           id="g3946">
+          <path
+             sodipodi:type="arc"
+             style="fill:#a6d1ed;fill-opacity:1;stroke:none"
+             id="path4814"
+             sodipodi:cx="-535.54498"
+             sodipodi:cy="516.552"
+             sodipodi:rx="11.402097"
+             sodipodi:ry="11.402097"
+             d="m -524.14289,516.552 c 0,6.29721 -5.10489,11.4021 -11.40209,11.4021 -6.29721,0 -11.4021,-5.10489 -11.4021,-11.4021 0,-6.2972 5.10489,-11.40209 11.4021,-11.40209 6.2972,0 11.40209,5.10489 11.40209,11.40209 z"
+             transform="matrix(8.7148386,0,0,8.7148386,4389.9381,-3852.3802)" />
+          <g
+             id="g3935"
+             transform="matrix(0.93197357,0,0,0.93197357,-18.860328,44.168689)">
+            <rect
+               style="fill:#f0cf59;fill-opacity:1;stroke:none"
+               id="rect3104"
+               width="108"
+               height="79"
+               x="-331.25"
+               y="635.61218"
+               ry="3.25" />
+            <rect
+               ry="1.0387659"
+               y="635.61218"
+               x="-331.25"
+               height="25.25"
+               width="108"
+               id="rect3106"
+               style="fill:#e2b214;fill-opacity:1;stroke:none" />
+            <path
+               sodipodi:type="arc"
+               style="fill:#bf960a;fill-opacity:1;stroke:none"
+               id="path3886"
+               sodipodi:cx="-312.5"
+               sodipodi:cy="649.48718"
+               sodipodi:rx="3.25"
+               sodipodi:ry="0.125"
+               d="m -309.25,649.48718 c 0,0.069 -1.45507,0.125 -3.25,0.125 -1.79493,0 -3.25,-0.056 -3.25,-0.125 0,-0.069 1.45507,-0.125 3.25,-0.125 1.79493,0 3.25,0.056 3.25,0.125 z"
+               transform="matrix(0,1.0229305,36.667301,0,-24122.783,969.38911)" />
+            <path
+               transform="matrix(0,1.0229305,36.667301,0,-24061.441,969.38911)"
+               d="m -309.25,649.48718 c 0,0.069 -1.45507,0.125 -3.25,0.125 -1.79493,0 -3.25,-0.056 -3.25,-0.125 0,-0.069 1.45507,-0.125 3.25,-0.125 1.79493,0 3.25,0.056 3.25,0.125 z"
+               sodipodi:ry="0.125"
+               sodipodi:rx="3.25"
+               sodipodi:cy="649.48718"
+               sodipodi:cx="-312.5"
+               id="path3888"
+               style="fill:#bf960a;fill-opacity:1;stroke:none"
+               sodipodi:type="arc" />
+            <path
+               style="fill:none;stroke:#f3f3f3;stroke-width:7.80000019;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="m -307.875,648.11218 0,-36 c 0,0 0.25,-24.27587 30.75,-24.25 30.5,0.0259 30.5,24.25 30.5,24.25 l 0,36.1875"
+               id="path3112"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cczcc" />
+            <g
+               style="fill:#cb9f0b;fill-opacity:1"
+               id="g3896"
+               transform="translate(0.32495949,-6)">
+              <path
+                 sodipodi:nodetypes="ccccc"
+                 inkscape:connector-curvature="0"
+                 id="path3890"
+                 d="m -280.05902,691.3185 -1.81041,9.76783 8.58894,0 -1.85251,-9.72572 z"
+                 style="fill:#cb9f0b;fill-opacity:1;stroke:none" />
+              <path
+                 transform="matrix(0.67364302,0,0,0.67364302,429.41339,228.91331)"
+                 d="m -1043,681.98718 c 0,3.58985 -2.9101,6.5 -6.5,6.5 -3.5899,0 -6.5,-2.91015 -6.5,-6.5 0,-3.58985 2.9101,-6.5 6.5,-6.5 3.5899,0 6.5,2.91015 6.5,6.5 z"
+                 sodipodi:ry="6.5"
+                 sodipodi:rx="6.5"
+                 sodipodi:cy="681.98718"
+                 sodipodi:cx="-1049.5"
+                 id="path3894"
+                 style="fill:#cb9f0b;fill-opacity:1;stroke:none"
+                 sodipodi:type="arc" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g5005"
+       transform="translate(405.55475,-243.83794)"
+       inkscape:export-filename="/home/livia/Documentos/105_negocios.png"
+       inkscape:export-xdpi="58.224789"
+       inkscape:export-ydpi="58.224789">
+      <g
+         transform="translate(11.313708,-234.75945)"
+         id="g3932">
+        <g
+           style="fill:#ececec;fill-opacity:1"
+           transform="matrix(0.63399219,0,0,0.63399219,-18.254908,707.75085)"
+           id="g7951"
+           inkscape:export-filename="/home/livia/Área de Trabalho/converter.png"
+           inkscape:export-xdpi="686.47833"
+           inkscape:export-ydpi="686.47833">
+          <g
+             style="fill:#ececec;fill-opacity:1"
+             id="g7953"
+             transform="translate(-298,0)">
+            <circle
+               d="M 256,128 C 256,198.69245 198.69245,256 128,256 57.307552,256 0,198.69245 0,128 0,57.307552 57.307552,0 128,0 198.69245,0 256,57.307552 256,128 z"
+               style="fill:#a6d1ed;fill-opacity:1"
+               sodipodi:ry="128"
+               sodipodi:rx="128"
+               sodipodi:cy="128"
+               sodipodi:cx="128"
+               cx="128"
+               cy="128"
+               r="128"
+               id="circle7955" />
+          </g>
+        </g>
+        <g
+           style="fill:#82c4b6;fill-opacity:1"
+           transform="matrix(0.63399219,0,0,0.63399219,-2033.4464,-185.28482)"
+           id="g7965"
+           inkscape:export-filename="/home/livia/Área de Trabalho/converter.png"
+           inkscape:export-xdpi="686.47833"
+           inkscape:export-ydpi="686.47833">
+          <path
+             style="fill:#82c4b6;fill-opacity:1;stroke:none"
+             d="m 2980.6722,1564.8717 14.2387,17.1938 0.2887,37.0747 c 0,0 5.4401,6.6799 20.0204,6.8456 14.5803,0.1658 18.5374,-6.8456 18.5374,-6.8456 l -0.077,-37.0747 32.5844,-38.2115 c 0,0 31.3008,-30.2802 27.8606,-45.9483 -3.4399,-15.6681 -50.1166,-23.5361 -78.9056,-23.9451 -28.7891,-0.409 -79.3075,11.203 -81.954,23.9451 -2.6462,12.742 47.4062,66.966 47.4062,66.966 z"
+             id="path7967"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccczccczzzc" />
+          <path
+             sodipodi:type="arc"
+             style="fill:#82c4b6;fill-opacity:1;stroke:none"
+             id="path7969"
+             sodipodi:cx="3680"
+             sodipodi:cy="982.48718"
+             sodipodi:rx="46.75"
+             sodipodi:ry="13.375"
+             d="m 3726.75,982.48718 c 0,7.38681 -20.9307,13.375 -46.75,13.375 -25.8193,0 -46.75,-5.98819 -46.75,-13.375 0,-7.38681 20.9307,-13.375 46.75,-13.375 25.8193,0 46.75,5.98819 46.75,13.375 z"
+             transform="matrix(1.5464342,0,0,1.5522895,-2677.1414,-24.232879)" />
+        </g>
+        <g
+           inkscape:export-ydpi="686.47833"
+           inkscape:export-xdpi="686.47833"
+           inkscape:export-filename="/home/livia/Área de Trabalho/converter.png"
+           id="g4314"
+           transform="matrix(0.63399219,0,0,0.63399219,-2033.4464,-185.28482)"
+           style="fill:#80d07f;fill-opacity:1">
+          <path
+             sodipodi:nodetypes="cccczcc"
+             inkscape:connector-curvature="0"
+             id="path4317"
+             d="m 3015.0452,1625.9349 c 14.5803,0.1658 18.5374,-6.8456 18.5374,-6.8456 l -0.077,-37.0747 32.5844,-38.2115 c 0,0 31.3008,-30.2802 27.8606,-45.9483 -3.4399,-15.6681 -50.1166,-23.5361 -78.9056,-23.9451 -0.1748,105.512 0.092,121.1413 2e-4,152.0252 z"
+             style="fill:#6cbaa9;fill-opacity:1;stroke:none" />
+          <path
+             transform="matrix(1.5464342,0,0,1.5522895,-2677.1414,-24.232879)"
+             d="m 3726.75,982.48718 c 0,7.38681 -20.9307,13.375 -46.75,13.375 -25.8193,0 -46.75,-5.98819 -46.75,-13.375 0,-7.38681 20.9307,-13.375 46.75,-13.375 25.8193,0 46.75,5.98819 46.75,13.375 z"
+             sodipodi:ry="13.375"
+             sodipodi:rx="46.75"
+             sodipodi:cy="982.48718"
+             sodipodi:cx="3680"
+             id="path4319"
+             style="fill:#ffffff;fill-opacity:1;stroke:none"
+             sodipodi:type="arc" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4974"
+       transform="translate(411.21161,-288.16101)">
+      <g
+         id="g4028"
+         transform="translate(5.6568491,-12.727921)">
+        <g
+           inkscape:export-ydpi="686.47833"
+           inkscape:export-xdpi="686.47833"
+           inkscape:export-filename="/home/livia/Área de Trabalho/converter.png"
+           id="g4030"
+           transform="matrix(0.63399219,0,0,0.63399219,-18.254908,707.75085)"
+           style="fill:#ececec;fill-opacity:1">
+          <g
+             transform="translate(-298,0)"
+             id="g4032"
+             style="fill:#ececec;fill-opacity:1">
+            <circle
+               id="circle4034"
+               r="128"
+               cy="128"
+               cx="128"
+               sodipodi:cx="128"
+               sodipodi:cy="128"
+               sodipodi:rx="128"
+               sodipodi:ry="128"
+               style="fill:#a6d1ed;fill-opacity:1"
+               d="M 256,128 C 256,198.69245 198.69245,256 128,256 57.307552,256 0,198.69245 0,128 0,57.307552 57.307552,0 128,0 198.69245,0 256,57.307552 256,128 z" />
+          </g>
+        </g>
+        <g
+           style="fill:#80d07f;fill-opacity:1"
+           transform="matrix(0.63399219,0,0,0.63399219,-2033.4464,-185.28482)"
+           id="g4042"
+           inkscape:export-filename="/home/livia/Área de Trabalho/converter.png"
+           inkscape:export-xdpi="686.47833"
+           inkscape:export-ydpi="686.47833" />
+      </g>
+      <g
+         id="g4090"
+         transform="matrix(0.89462231,0,0,0.89462231,257.7194,74.486202)">
+        <path
+           style="opacity:0.98000004;fill:#6cbaa9;fill-opacity:1;stroke:none"
+           d="m -482.39223,780.46793 58.94345,-57.13706 60.56187,57.17029 -14.997,45.88156 -47.19995,2.34056 -43.55955,-16.48453 z"
+           id="path4247"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccc"
+           inkscape:export-filename="/home/livia/Área de Trabalho/email_marketing.png"
+           inkscape:export-xdpi="317.43265"
+           inkscape:export-ydpi="317.43265" />
+        <g
+           id="g4576"
+           inkscape:export-filename="/home/livia/Área de Trabalho/email_marketing.png"
+           inkscape:export-xdpi="317.43265"
+           inkscape:export-ydpi="317.43265"
+           transform="matrix(2.2891137,0,0,2.2891137,-376.40155,951.01767)">
+          <g
+             transform="matrix(0.12376356,0.05731053,-0.05731053,0.12376356,-37.602925,-117.83714)"
+             id="g4434">
+            <path
+               style="fill:#ffffff"
+               inkscape:connector-curvature="0"
+               d="M 247.78,27.348 55.295,116.216 c -10.65,4.917 -15.355,17.413 -10.439,28.064 l 151.745,328.669 c 4.917,10.649 17.505,15.231 28.157,10.313 L 457.843,375.65 c 10.65,-4.919 14.867,-17.258 9.951,-27.907 L 334.797,59.674 247.78,27.348 z"
+               id="path4436" />
+            <path
+               style="fill:#e6e6e6"
+               inkscape:connector-curvature="0"
+               d="m 294.007,78.328 41.184,-19.014 -87.658,-32.003 19.013,41.183 c 4.987,10.802 16.659,14.821 27.461,9.834 z"
+               id="path4438" />
+            <g
+               transform="translate(-12.323576,-26.613078)"
+               id="g4491">
+              <line
+                 id="line4440"
+                 y2="247.26199"
+                 y1="343.341"
+                 x2="259.62399"
+                 x1="213.54401"
+                 stroke-miterlimit="10"
+                 style="fill:none;stroke:#646470;stroke-width:11;stroke-miterlimit:10" />
+              <line
+                 id="line4442"
+                 y2="262.561"
+                 y1="244.502"
+                 x2="328.258"
+                 x1="258.302"
+                 stroke-miterlimit="10"
+                 style="fill:none;stroke:#646470;stroke-width:11;stroke-miterlimit:10" />
+              <line
+                 id="line4444"
+                 y2="139.675"
+                 y1="262.52899"
+                 x2="344.97699"
+                 x1="327.94199"
+                 stroke-miterlimit="10"
+                 style="fill:none;stroke:#646470;stroke-width:11;stroke-miterlimit:10" />
+              <circle
+                 id="circle4446"
+                 r="12.869"
+                 cy="140.007"
+                 cx="344.74301"
+                 sodipodi:cx="344.74301"
+                 sodipodi:cy="140.007"
+                 sodipodi:rx="12.869"
+                 sodipodi:ry="12.869"
+                 style="fill:#656565"
+                 d="m 357.61201,140.007 c 0,7.10736 -5.76165,12.869 -12.869,12.869 -7.10735,0 -12.869,-5.76164 -12.869,-12.869 0,-7.10735 5.76165,-12.869 12.869,-12.869 7.10735,0 12.869,5.76165 12.869,12.869 z" />
+              <circle
+                 id="circle4448"
+                 r="12.869"
+                 cy="260.599"
+                 cx="327.353"
+                 sodipodi:cx="327.353"
+                 sodipodi:cy="260.599"
+                 sodipodi:rx="12.869"
+                 sodipodi:ry="12.869"
+                 style="fill:#646470"
+                 d="m 340.222,260.599 c 0,7.10735 -5.76165,12.869 -12.869,12.869 -7.10736,0 -12.869,-5.76165 -12.869,-12.869 0,-7.10735 5.76164,-12.869 12.869,-12.869 7.10735,0 12.869,5.76165 12.869,12.869 z" />
+              <circle
+                 id="circle4450"
+                 r="12.869"
+                 cy="247.271"
+                 cx="259.98199"
+                 sodipodi:cx="259.98199"
+                 sodipodi:cy="247.271"
+                 sodipodi:rx="12.869"
+                 sodipodi:ry="12.869"
+                 style="fill:#646470"
+                 d="m 272.851,247.271 c 0,7.10735 -5.76165,12.869 -12.86901,12.869 -7.10735,0 -12.869,-5.76165 -12.869,-12.869 0,-7.10736 5.76165,-12.869 12.869,-12.869 7.10736,0 12.86901,5.76164 12.86901,12.869 z" />
+              <circle
+                 id="circle4452"
+                 r="12.87"
+                 cy="343.69699"
+                 cx="213.662"
+                 sodipodi:cx="213.662"
+                 sodipodi:cy="343.69699"
+                 sodipodi:rx="12.87"
+                 sodipodi:ry="12.87"
+                 style="fill:#646470"
+                 d="m 226.532,343.69699 c 0,7.10791 -5.76209,12.87 -12.87,12.87 -7.1079,0 -12.87,-5.76209 -12.87,-12.87 0,-7.1079 5.7621,-12.87 12.87,-12.87 7.10791,0 12.87,5.7621 12.87,12.87 z" />
+              <line
+                 id="line4454"
+                 y2="235.256"
+                 y1="405.58099"
+                 x2="209.015"
+                 x1="193.85201"
+                 stroke-miterlimit="10"
+                 style="fill:#f58676;fill-opacity:1;stroke:#f58676;stroke-width:10;stroke-miterlimit:10;stroke-opacity:1" />
+              <line
+                 id="line4456"
+                 y2="308.87201"
+                 y1="235.256"
+                 x2="319.03201"
+                 x1="209.015"
+                 stroke-miterlimit="10"
+                 style="fill:#f58676;fill-opacity:1;stroke:#f58676;stroke-width:10;stroke-miterlimit:10;stroke-opacity:1" />
+              <line
+                 id="line4458"
+                 y2="151.358"
+                 y1="308.87201"
+                 x2="283.961"
+                 x1="319.03201"
+                 stroke-miterlimit="10"
+                 style="fill:#f58676;fill-opacity:1;stroke:#f58676;stroke-width:10;stroke-miterlimit:10;stroke-opacity:1" />
+              <circle
+                 id="circle4460"
+                 stroke-miterlimit="10"
+                 r="12.87"
+                 cy="147.716"
+                 cx="283.13501"
+                 sodipodi:cx="283.13501"
+                 sodipodi:cy="147.716"
+                 sodipodi:rx="12.87"
+                 sodipodi:ry="12.87"
+                 style="fill:#d5d5e4;stroke:#646470;stroke-width:8;stroke-miterlimit:10"
+                 d="m 296.00501,147.716 c 0,7.10791 -5.7621,12.87 -12.87,12.87 -7.1079,0 -12.87,-5.76209 -12.87,-12.87 0,-7.1079 5.7621,-12.87 12.87,-12.87 7.1079,0 12.87,5.7621 12.87,12.87 z" />
+              <circle
+                 id="circle4462"
+                 r="12.869"
+                 cy="308.87299"
+                 cx="319.03201"
+                 sodipodi:cx="319.03201"
+                 sodipodi:cy="308.87299"
+                 sodipodi:rx="12.869"
+                 sodipodi:ry="12.869"
+                 style="fill:#646470"
+                 d="m 331.90101,308.87299 c 0,7.10735 -5.76164,12.869 -12.869,12.869 -7.10735,0 -12.869,-5.76165 -12.869,-12.869 0,-7.10736 5.76165,-12.869 12.869,-12.869 7.10736,0 12.869,5.76164 12.869,12.869 z" />
+              <circle
+                 id="circle4464"
+                 r="12.87"
+                 cy="235.256"
+                 cx="209.015"
+                 sodipodi:cx="209.015"
+                 sodipodi:cy="235.256"
+                 sodipodi:rx="12.87"
+                 sodipodi:ry="12.87"
+                 style="fill:#646470"
+                 d="m 221.885,235.256 c 0,7.1079 -5.7621,12.87 -12.87,12.87 -7.10791,0 -12.87,-5.7621 -12.87,-12.87 0,-7.10791 5.76209,-12.87 12.87,-12.87 7.1079,0 12.87,5.76209 12.87,12.87 z" />
+              <circle
+                 id="circle4466"
+                 r="12.869"
+                 cy="408.50101"
+                 cx="195.19901"
+                 sodipodi:cx="195.19901"
+                 sodipodi:cy="408.50101"
+                 sodipodi:rx="12.869"
+                 sodipodi:ry="12.869"
+                 style="fill:#646470"
+                 d="m 208.06801,408.50101 c 0,7.10735 -5.76165,12.869 -12.869,12.869 -7.10736,0 -12.86901,-5.76165 -12.86901,-12.869 0,-7.10736 5.76165,-12.869 12.86901,-12.869 7.10735,0 12.869,5.76164 12.869,12.869 z" />
+            </g>
+          </g>
+        </g>
+        <rect
+           style="fill:#6cbaa9;fill-opacity:1;stroke:none"
+           id="rect4243"
+           width="119.37527"
+           height="39.495213"
+           x="-482.41016"
+           y="818.2204"
+           inkscape:export-filename="/home/livia/Área de Trabalho/email_marketing.png"
+           inkscape:export-xdpi="317.43265"
+           inkscape:export-ydpi="317.43265" />
+        <path
+           style="fill:#8dc8c6;fill-opacity:1;stroke:none"
+           d="m -482.41021,780.46445 31.40509,37.79819 -31.40509,38.34597 z"
+           id="path4239"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/livia/Área de Trabalho/email_marketing.png"
+           inkscape:export-xdpi="317.43265"
+           inkscape:export-ydpi="317.43265" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4241"
+           d="m -362.85405,780.46445 -31.40502,37.79819 31.40502,38.34597 z"
+           style="fill:#8dc8c6;fill-opacity:1;stroke:none"
+           inkscape:export-filename="/home/livia/Área de Trabalho/email_marketing.png"
+           inkscape:export-xdpi="317.43265"
+           inkscape:export-ydpi="317.43265" />
+      </g>
+    </g>
+    <g
+       style="fill:none;stroke:none"
+       id="Layer_1-9"
+       transform="matrix(5.4098413,0,0,5.4098413,-3922.5376,1635.3289)" />
+    <g
+       id="g4842"
+       transform="translate(486.23175,-226.43715)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m -370.2219,555.25408 -57.2253,-57.2253 c -28.53691,32.9243 -28.53691,81.52631 0,114.45061 l 57.2253,-57.22531 z"
+         style="fill:#82c4b6;fill-opacity:1;stroke:none"
+         id="path3917-2" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -361.65271,547.56129 v -97.37714 c -26.99511,1.65 -50.91742,11.79345 -70.23056,27.60101 l 70.23056,69.77613 z"
+         style="fill:#735c4c;fill-opacity:1;stroke:none"
+         id="path3919-0" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -351.00073,471.91007 v 80.13057 l -56.62481,56.17038 c 12.59411,9.25624 27.76872,15.08805 44.99365,15.08805 42.29414,0 76.08401,-34.23348 76.08401,-76.45729 0,-38.29086 -27.83364,-69.31089 -64.45285,-74.93171 z"
+         style="fill:#a6d1ed;fill-opacity:1;stroke:none"
+         id="path3921-5" />
+    </g>
+    <g
+       id="g4847"
+       transform="translate(486.19572,-288.16101)">
+      <g
+         id="g4716"
+         transform="matrix(1.2679844,0,0,1.2679844,-448.81385,695.02293)"
+         style="fill:none;stroke:none">
+        <path
+           id="path4669"
+           d="m 64,0 c 35.346,0 64,28.654 64,64 0,35.347 -28.654,64 -64,64 C 28.654,128 0,99.347 0,64 0,28.654 28.654,0 64,0 z"
+           inkscape:connector-curvature="0"
+           style="fill:#a6d1ed;fill-opacity:1" />
+        <path
+           style="fill:#72b1d9;fill-opacity:1;stroke:none"
+           inkscape:connector-curvature="0"
+           d="m 64,0 c 35.346,0 64,28.654 64,64 0,35.347 -28.654,64 -64,64 C 28.654,128 0,99.347 0,64 0,28.654 28.654,0 64,0 z"
+           id="path4736"
+           mask="url(#mask4769)" />
+        <path
+           style="fill:#735c4c;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="M 46.962,65 C 35.096,69.354 25.278,97.102 34.848,95.969 38.729,95.51 42.08,91.973 51,91.973 50.981,92.005 49.075,90.666 48.981,86.979 48.137,79.09 46.931,65.03 46.962,65 z"
+           id="path4683" />
+        <path
+           style="fill:#f0cf59;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 63.917,93 c 3.59,0 7.083,2.41 7.083,6 0,3.59 -3.41,11 -7,11 -3.59,0 -7,-7.41 -7,-11 0,-3.59 3.327,-6 6.917,-6 z"
+           id="path4689" />
+        <path
+           style="fill:#735c4c;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 81,65 c 11.754,4.359 21.48,32.134 12,31 -3.845,-0.459 -7.163,-4 -16,-4 0.02,0.032 1.907,-1.309 2,-5 0.837,-7.896 2.031,-21.97 2,-22 z"
+           id="path4691" />
+        <path
+           style="fill:#ffffff;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="M 63.5,19 C 65.972,18.938 82,38.7 82,63 82,78.049 80.245,85.998 79.771,88.191 78.686,93.21 76.596,96 63.5,96 50.443,96 49.208,93.129 48.208,88.357 47.739,86.115 46,78.049 46,63 46,38.7 60.991,19.141 63.5,19 z"
+           id="path4697" />
+        <path
+           style="fill:#999999;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 64,39 c 4.971,0 9,4.029 9,9 0,4.971 -4.029,9 -9,9 -4.97,0 -9,-4.029 -9,-9 0,-4.971 4.03,-9 9,-9 z"
+           id="path4699" />
+        <path
+           style="fill:#ececec;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 64,42 c 3.314,0 6,2.687 6,6 0,3.314 -2.686,6 -6,6 -3.313,0 -6,-2.686 -6,-6 0,-3.313 2.687,-6 6,-6 z"
+           id="path4701" />
+        <path
+           style="fill:#735c4c;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="M 63.938,65 C 66.423,65 69,69.611 69,79 69,88.39 66.423,99 63.938,99 61.453,99 59,88.39 59,79 59,69.611 61.452,65 63.938,65 z"
+           id="path4707" />
+        <path
+           style="fill:#5e4b3f;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 64,65 c 2.485,0 5,4.611 5,14 0,9.39 -2.515,20 -5,20"
+           id="path4709" />
+      </g>
+    </g>
+    <g
+       id="g4817"
+       transform="translate(488,-177.83781)">
+      <g
+         style="fill:#a6d1ed;fill-opacity:1"
+         transform="translate(-243.43355,-478.46804)"
+         id="g4346">
+        <g
+           style="fill:#a6d1ed;fill-opacity:1"
+           transform="matrix(0.63399219,0,0,0.63399219,-18.254908,707.75085)"
+           id="g4348"
+           inkscape:export-filename="/home/livia/Área de Trabalho/converter.png"
+           inkscape:export-xdpi="686.47833"
+           inkscape:export-ydpi="686.47833">
+          <g
+             style="fill:#a6d1ed;fill-opacity:1"
+             id="g4350"
+             transform="translate(-298,0)">
+            <circle
+               d="M 256,128 C 256,198.69245 198.69245,256 128,256 57.307552,256 0,198.69245 0,128 0,57.307552 57.307552,0 128,0 198.69245,0 256,57.307552 256,128 z"
+               style="fill:#a6d1ed;fill-opacity:1"
+               sodipodi:ry="128"
+               sodipodi:rx="128"
+               sodipodi:cy="128"
+               sodipodi:cx="128"
+               cx="128"
+               cy="128"
+               r="128"
+               id="circle4352" />
+          </g>
+        </g>
+        <g
+           inkscape:export-ydpi="686.47833"
+           inkscape:export-xdpi="686.47833"
+           inkscape:export-filename="/home/livia/Área de Trabalho/converter.png"
+           id="g4354"
+           transform="matrix(0.63399219,0,0,0.63399219,-2033.4464,-185.28482)"
+           style="fill:#a6d1ed;fill-opacity:1" />
+      </g>
+      <g
+         mask="url(#mask4562)"
+         style="fill:#82c4b6;fill-opacity:1;stroke:none"
+         id="g4540"
+         transform="translate(-243.43355,-478.46804)">
+        <g
+           inkscape:export-ydpi="686.47833"
+           inkscape:export-xdpi="686.47833"
+           inkscape:export-filename="/home/livia/Área de Trabalho/converter.png"
+           id="g4542"
+           transform="matrix(0.63399219,0,0,0.63399219,-18.254908,707.75085)"
+           style="fill:#82c4b6;fill-opacity:1;stroke:none">
+          <g
+             transform="translate(-298,0)"
+             id="g4544"
+             style="fill:#82c4b6;fill-opacity:1;stroke:none">
+            <circle
+               id="circle4546"
+               r="128"
+               cy="128"
+               cx="128"
+               sodipodi:cx="128"
+               sodipodi:cy="128"
+               sodipodi:rx="128"
+               sodipodi:ry="128"
+               style="fill:#82c4b6;fill-opacity:1;stroke:none"
+               d="M 256,128 C 256,198.69245 198.69245,256 128,256 57.307552,256 0,198.69245 0,128 0,57.307552 57.307552,0 128,0 198.69245,0 256,57.307552 256,128 z" />
+          </g>
+        </g>
+        <g
+           style="fill:#82c4b6;fill-opacity:1;stroke:none"
+           transform="matrix(0.63399219,0,0,0.63399219,-2033.4464,-185.28482)"
+           id="g4548"
+           inkscape:export-filename="/home/livia/Área de Trabalho/converter.png"
+           inkscape:export-xdpi="686.47833"
+           inkscape:export-ydpi="686.47833" />
+      </g>
+      <g
+         transform="translate(-243.43355,-478.46804)"
+         id="g4657"
+         style="fill:#82c4b6;fill-opacity:1;stroke:none"
+         mask="url(#mask4562)">
+        <g
+           style="fill:#82c4b6;fill-opacity:1;stroke:none"
+           transform="matrix(0.63399219,0,0,0.63399219,-18.254908,707.75085)"
+           id="g4659"
+           inkscape:export-filename="/home/livia/Área de Trabalho/converter.png"
+           inkscape:export-xdpi="686.47833"
+           inkscape:export-ydpi="686.47833">
+          <g
+             style="fill:#82c4b6;fill-opacity:1;stroke:none"
+             id="g4661"
+             transform="translate(-298,0)">
+            <circle
+               d="M 256,128 C 256,198.69245 198.69245,256 128,256 57.307552,256 0,198.69245 0,128 0,57.307552 57.307552,0 128,0 198.69245,0 256,57.307552 256,128 z"
+               style="fill:#82c4b6;fill-opacity:1;stroke:none"
+               sodipodi:ry="128"
+               sodipodi:rx="128"
+               sodipodi:cy="128"
+               sodipodi:cx="128"
+               cx="128"
+               cy="128"
+               r="128"
+               id="circle4663" />
+          </g>
+        </g>
+        <g
+           inkscape:export-ydpi="686.47833"
+           inkscape:export-xdpi="686.47833"
+           inkscape:export-filename="/home/livia/Área de Trabalho/converter.png"
+           id="g4665"
+           transform="matrix(0.63399219,0,0,0.63399219,-2033.4464,-185.28482)"
+           style="fill:#82c4b6;fill-opacity:1;stroke:none" />
+      </g>
+      <g
+         mask="url(#mask4528)"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="g4482"
+         transform="matrix(0.99387637,0,0,0.99387637,-244.20533,-473.84421)">
+        <g
+           inkscape:export-ydpi="686.47833"
+           inkscape:export-xdpi="686.47833"
+           inkscape:export-filename="/home/livia/Área de Trabalho/converter.png"
+           id="g4484"
+           transform="matrix(0.63399219,0,0,0.63399219,-18.254908,707.75085)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.57730651;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+          <g
+             transform="translate(-298,0)"
+             id="g4486"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.57730651;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+            <circle
+               id="circle4488"
+               r="128"
+               cy="128"
+               cx="128"
+               sodipodi:cx="128"
+               sodipodi:cy="128"
+               sodipodi:rx="128"
+               sodipodi:ry="128"
+               style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.57730651;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="M 256,128 C 256,198.69245 198.69245,256 128,256 57.307552,256 0,198.69245 0,128 0,57.307552 57.307552,0 128,0 198.69245,0 256,57.307552 256,128 z" />
+          </g>
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.57730651;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           transform="matrix(0.63399219,0,0,0.63399219,-2033.4464,-185.28482)"
+           id="g4490"
+           inkscape:export-filename="/home/livia/Área de Trabalho/converter.png"
+           inkscape:export-xdpi="686.47833"
+           inkscape:export-ydpi="686.47833" />
+      </g>
+      <path
+         transform="matrix(0.83333334,0,0,0.83333334,-70.003574,-18.353562)"
+         d="m -417.90011,403.23816 c 0,5.85786 -4.74874,10.6066 -10.6066,10.6066 -5.85787,0 -10.60661,-4.74874 -10.60661,-10.6066 0,-5.85787 4.74874,-10.6066 10.60661,-10.6066 5.85786,0 10.6066,4.74873 10.6066,10.6066 z"
+         sodipodi:ry="10.606602"
+         sodipodi:rx="10.606602"
+         sodipodi:cy="403.23816"
+         sodipodi:cx="-428.50671"
+         id="path4532"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path4534"
+         sodipodi:cx="-428.50671"
+         sodipodi:cy="403.23816"
+         sodipodi:rx="10.606602"
+         sodipodi:ry="10.606602"
+         d="m -417.90011,403.23816 c 0,5.85786 -4.74874,10.6066 -10.6066,10.6066 -5.85787,0 -10.60661,-4.74874 -10.60661,-10.6066 0,-5.85787 4.74874,-10.6066 10.60661,-10.6066 5.85786,0 10.6066,4.74873 10.6066,10.6066 z"
+         transform="matrix(0.83333334,0,0,0.83333334,-38.537322,-0.32233908)" />
+      <path
+         transform="matrix(0.83333334,0,0,0.83333334,16.617007,-61.840629)"
+         d="m -417.90011,403.23816 c 0,5.85786 -4.74874,10.6066 -10.6066,10.6066 -5.85787,0 -10.60661,-4.74874 -10.60661,-10.6066 0,-5.85787 4.74874,-10.6066 10.60661,-10.6066 5.85786,0 10.6066,4.74873 10.6066,10.6066 z"
+         sodipodi:ry="10.606602"
+         sodipodi:rx="10.606602"
+         sodipodi:cy="403.23816"
+         sodipodi:cx="-428.50671"
+         id="path4536"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+  </g>
+</svg>

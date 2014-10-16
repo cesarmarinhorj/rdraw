@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="icones-no-index.svg">
+   sodipodi:docname="icons.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -73,11 +73,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="369.39589"
-     inkscape:cy="451.207"
+     inkscape:zoom="4"
+     inkscape:cx="284.88056"
+     inkscape:cy="384.82719"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3199"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -1798,6 +1798,166 @@
          id="path4536"
          style="fill:#ffffff;fill-opacity:1;stroke:none"
          sodipodi:type="arc" />
+    </g>
+    <g
+       inkscape:export-ydpi="58.224773"
+       inkscape:export-xdpi="58.224773"
+       inkscape:export-filename="/home/livia/Documentos/105_campanhas.png"
+       transform="translate(-85.524153,109.34419)"
+       id="g3199">
+      <path
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         sodipodi:type="arc"
+         style="fill:#a6d1ed;fill-opacity:1;stroke:none"
+         id="path3201"
+         sodipodi:cx="220.21326"
+         sodipodi:cy="744.26569"
+         sodipodi:rx="68.690376"
+         sodipodi:ry="68.690376"
+         d="m 288.90363,744.26569 c 0,37.93664 -30.75373,68.69037 -68.69037,68.69037 -37.93665,0 -68.69038,-30.75373 -68.69038,-68.69037 0,-37.93665 30.75373,-68.69038 68.69038,-68.69038 37.93664,0 68.69037,30.75373 68.69037,68.69038 z"
+         transform="matrix(1.181403,0,0,1.181403,116.19843,-328.30698)" />
+      <rect
+         inkscape:export-ydpi="94.268669"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         ry="0"
+         y="497.48712"
+         x="336.80267"
+         height="4.6247096"
+         width="80.972061"
+         id="rect3283"
+         style="fill:#735c4c;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect3213"
+         width="80.972061"
+         height="106.88207"
+         x="336.80267"
+         y="502.11182"
+         ry="0"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-ydpi="94.268669" />
+      <g
+         style="fill:#d4d4d4;fill-opacity:0.41304347"
+         transform="matrix(2.5736458,0,0,1.8190748,-571.4169,-821.51748)"
+         id="g3255"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-ydpi="94.268669">
+        <rect
+           style="fill:#d4d4d4;fill-opacity:0.41304347;stroke:none"
+           id="rect3257"
+           width="26.670124"
+           height="2.8149295"
+           x="355.28815"
+           y="752.66034"
+           ry="0" />
+      </g>
+      <rect
+         ry="0"
+         y="592.51361"
+         x="376.64493"
+         height="10.430439"
+         width="34.963512"
+         id="rect3259"
+         style="fill:#f58676;fill-opacity:1;stroke:none"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-ydpi="94.268669" />
+      <rect
+         style="fill:#cce6e1;fill-opacity:1;stroke:none"
+         id="rect3261"
+         width="68.640526"
+         height="31.562769"
+         x="342.96899"
+         y="508.35126"
+         ry="0"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-ydpi="94.268669" />
+      <g
+         id="g3263"
+         transform="matrix(1.2987999,0,0,0.75727184,-118.47921,-25.893172)"
+         style="fill:#d4d4d4;fill-opacity:1"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-ydpi="94.268669">
+        <rect
+           ry="0"
+           y="752.66034"
+           x="355.28815"
+           height="2.8149295"
+           width="26.670124"
+           id="rect3265"
+           style="fill:#d4d4d4;fill-opacity:1;stroke:none" />
+      </g>
+      <g
+         id="g3267"
+         transform="matrix(2.5736458,0,0,1.8190748,-571.4169,-805.074)"
+         style="fill:#d4d4d4;fill-opacity:0.41304347"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-ydpi="94.268669">
+        <rect
+           ry="0"
+           y="752.66034"
+           x="355.28815"
+           height="2.8149295"
+           width="26.670124"
+           id="rect3269"
+           style="fill:#d4d4d4;fill-opacity:0.41304347;stroke:none" />
+      </g>
+      <g
+         style="fill:#d4d4d4;fill-opacity:1"
+         transform="matrix(1.2987999,0,0,0.75727184,-118.47921,-9.4496994)"
+         id="g3271"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-ydpi="94.268669">
+        <rect
+           style="fill:#d4d4d4;fill-opacity:1;stroke:none"
+           id="rect3273"
+           width="26.670124"
+           height="2.8149295"
+           x="355.28815"
+           y="752.66034"
+           ry="0" />
+      </g>
+      <g
+         style="fill:#d4d4d4;fill-opacity:0.41304347"
+         transform="matrix(2.5736458,0,0,1.8190748,-571.4169,-788.63053)"
+         id="g3275"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-ydpi="94.268669">
+        <rect
+           style="fill:#d4d4d4;fill-opacity:0.41304347;stroke:none"
+           id="rect3277"
+           width="26.670124"
+           height="2.8149295"
+           x="355.28815"
+           y="752.66034"
+           ry="0" />
+      </g>
+      <g
+         id="g3279"
+         transform="matrix(1.2987999,0,0,0.75727184,-118.47921,6.9937716)"
+         style="fill:#d4d4d4;fill-opacity:1"
+         inkscape:export-filename="/home/livia/Área de Trabalho/landing_page.png"
+         inkscape:export-xdpi="94.268669"
+         inkscape:export-ydpi="94.268669">
+        <rect
+           ry="0"
+           y="752.66034"
+           x="355.28815"
+           height="2.8149295"
+           width="26.670124"
+           id="rect3281"
+           style="fill:#d4d4d4;fill-opacity:1;stroke:none" />
+      </g>
     </g>
   </g>
 </svg>
